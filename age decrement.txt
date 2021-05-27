@@ -6,6 +6,6 @@ int main()
     scanf("%d",&age);
     printf("You are %d years old.n",age);
     age--;
-    printf("One year ago, you were %d.n",age);
+    printf("One year ago, you were %d.n",age);/*to know age one year ago*/
     return(0);
 }
